@@ -8,6 +8,7 @@ namespace TestGit_1
 {
     class Class1
     {
+        public int Code { get; set; }
         public string Name { get; set; }
         public string LastName { get; set; }
     }
